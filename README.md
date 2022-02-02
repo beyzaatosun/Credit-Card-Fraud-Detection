@@ -3,9 +3,9 @@
 
 🗃️ Veri seti bu [bağlantı](https://www.kaggle.com/mlg-ulb/creditcardfraud) kullanılarak indirilebilir. Toplam 284.807 işlemden 492'si dolandırıcılık içermektedir.
 
-👉 Proje Adımları:
-👀Veri setinin incelenmesi ve hazırlanması
-🔍Keşifsel Veri analizi
-⚔️Veri setini ayırma(Eğitim Veri Seti - Test Veri Seti)
-⚙️Modelin Eğitilmesi
-🔮Modelin Değerlendirilmesi 
+👉 Proje Adımları:<br/>
+👀Veri setinin incelenmesi ve hazırlanması<br/>
+🔍Keşifsel Veri analizi<br/>
+⚔️Veri setini ayırma(Eğitim Veri Seti - Test Veri Seti)<br/>
+⚙️Modelin Eğitilmesi<br/>
+🔮Modelin Değerlendirilmesi <br/>
